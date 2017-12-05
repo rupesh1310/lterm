@@ -28,6 +28,7 @@ It is fully online and doesn't require any extra shitty access. Being an emulato
 - `touch`
 - `cp`/`mv`
 - `mkdir`
+- `ifconfig`
 
 ### Contributing 
 
